@@ -23,14 +23,14 @@ A Python application that scrapes tour event data from a website, stores it in a
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://via.placeholder.com/800x400) <!-- Replace with your screenshot -->
-![Screenshot 2](https://via.placeholder.com/800x400) <!-- Replace with your screenshot -->
+![display1](images/display1.png)
+![display2](images/display2.png)
 
 ---
 
 ## 🎥 Demo
 
-![Demo Video](https://via.placeholder.com/800x400) <!-- Replace with your demo video -->
+[![Watch the video](https://img.youtube.com/vi/K2qTW_oJVeA/0.jpg)](https://youtu.be/K2qTW_oJVeA)
 
 ---
 
